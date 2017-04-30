@@ -1,0 +1,40 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      font-family: verdana;
+      background-color: #F9E82C;
+      color: #F9E82C;
+    }
+    body {
+      background-color: #046AED;
+      padding:10px;
+    }
+    header {
+      padding: 20px;
+    }
+    h1 {
+      font-size: 60px;
+      color: #F9E82C;
+      font-weight: 600;
+      word-spacing: 20px;
+    }
+    nav a {
+      font-weight: 600;
+      color: #F9E82C;
+      padding-left: 20px;
+      padding-right:20px;
+    }
+    div {
+      padding: 5px;
+    }
+    aside {
+      float:right;
+      display: inline-block;
+    }
+    a:hover{
+      font-weight: bold;
+    }
+    footer {
+    }
